@@ -63,7 +63,7 @@
 %endif
 
 Version:	7.67.0
-Release:	2.0.kng.%{__distinit}%{__distvers}
+Release:	2.0.kkr.%{__distinit}%{__distvers}
 %if %{compat}
 Summary:	Curl library for compatibility with old applications
 Name:		libcurl%(echo %{version} | tr -d .)
